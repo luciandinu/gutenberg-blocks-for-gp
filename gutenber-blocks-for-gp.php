@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Gutenberg Blocks for GP
-Plugin URI:
+Plugin URI: https://github.com/luciandinu/gutenberg-blocks-for-gp
 Description:
 Version: 0.1
 Author: Lucian Dinu

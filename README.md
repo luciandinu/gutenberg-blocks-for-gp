@@ -1,4 +1,4 @@
-# gutenberg-blocks-for-gp
+# Gutenberg blocks for GP
 WP Gutenberg blocks for GeneratePress based on Lazy Blocks
 
 
